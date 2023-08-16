@@ -22,7 +22,6 @@ According to Business World, three main benefits to server virtualization are:
 3.	Backup / Recovery: Reliable backups and the restoring of data that may result in cyberattacks or natural disasters.
 
 ### Potential Drawbacks
-
 1.	Upfront Costs: Savings will outweigh the expenditures, but it is specific to each organization. It only considers long term savings when it balances out costs at the end. Another cost factor is including software licensing. Licensing costs have been decreasing due to competition, but it may still be costly.
 2.	Security Risk: Server virtualization carries an additional data security risk. To ensure data integrity and safety, check if the provider is PCI complaint or how they handle security.
 
