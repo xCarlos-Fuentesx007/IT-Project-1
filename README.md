@@ -6,6 +6,8 @@ To gain experience preparing an executive summary and to research how virtualiza
 ### Description
 Roleplay that you are a system administrator for an organization that is attempting to determine if virtualization of its server infrastructure would be beneficial to the organization. Examine the basic benefits and problems that are related to server virtualization.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Executive Summary
 
 ### Introduction
