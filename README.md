@@ -30,6 +30,7 @@ According to Business World, three main benefits to server virtualization are:
 ### Recommendation
 Given the above points, I recommend transitioning to server virtualization because the benefits far outweigh the drawbacks. It benefits the organization in many different levels of cost expenses, it promotes automation to ease the workload of everyday tasks, and it implements a reliable backup and restore system.
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ## License
 
