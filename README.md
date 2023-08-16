@@ -14,13 +14,13 @@ The organization may rely heavy on multiple physical servers that may accommodat
 
 ### Potential Benefits
 According to Business World, three main benefits to server virtualization are:
-    1.	Cost reduction: Save on hardware purchases/upgrades, operational management, energy, and real estate expenses.
-    2.	Automation: Reduce number of technicians and/or reduce pressure off the IT department.
-    3.	Backup / Recovery: Reliable backups and the restoring of data that may result in cyberattacks or natural disasters.
+1.	Cost reduction: Save on hardware purchases/upgrades, operational management, energy, and real estate expenses.
+2.	Automation: Reduce number of technicians and/or reduce pressure off the IT department.
+3.	Backup / Recovery: Reliable backups and the restoring of data that may result in cyberattacks or natural disasters.
     
 ### Potential Drawbacks
-    1.	Upfront Costs: Savings will outweigh the expenditures, but it is specific to each organization. It only considers long term savings when it balances out costs at the end. Another cost factor is including software licensing. Licensing costs have been decreasing due to competition, but it may still be costly.
-    2.	Security Risk: Server virtualization carries an additional data security risk. To ensure data integrity and safety, check if the provider is PCI complaint or how they handle security.
+1.	Upfront Costs: Savings will outweigh the expenditures, but it is specific to each organization. It only considers long term savings when it balances out costs at the end. Another cost factor is including software licensing. Licensing costs have been decreasing due to competition, but it may still be costly.
+2.	Security Risk: Server virtualization carries an additional data security risk. To ensure data integrity and safety, check if the provider is PCI complaint or how they handle security.
 
 ### Recommendation
 Given the above points, I recommend transitioning to server virtualization because the benefits far outweigh the drawbacks. It benefits the organization in many different levels of cost expenses, it promotes automation to ease the workload of everyday tasks, and it implements a reliable backup and restore system
