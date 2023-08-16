@@ -18,7 +18,6 @@ The organization may rely heavy on multiple physical servers that may accommodat
 
 ### Potential Benefits
 According to Business World, three main benefits to server virtualization are:
-
 1.	Cost reduction: Save on hardware purchases/upgrades, operational management, energy, and real estate expenses.
 2.	Automation: Reduce number of technicians and/or reduce pressure off the IT department.
 3.	Backup / Recovery: Reliable backups and the restoring of data that may result in cyberattacks or natural disasters.
