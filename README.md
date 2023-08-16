@@ -7,6 +7,8 @@ To gain experience preparing an executive summary and to research how virtualiza
 Roleplay that you are a system administrator for an organization that is attempting to determine if virtualization of its server infrastructure would be beneficial to the organization. Examine the basic benefits and problems that are related to server virtualization.
 
 ## Executive Summary
+
+### Introduction
 Why choose server virtualization for your server infrastructure? This report will guide you through basic benefits and problems that are related to server virtualization. One of the most important question to ask yourself is, “Is server virtualization beneficial to my organization?”. If you are considering this route, it is because your organization could potentially save resources and spent them elsewhere where it really counts. The following points will explain the basics, benefits, and disadvantages of server virtualization.
     
 ### Server Consolidation
@@ -14,11 +16,13 @@ The organization may rely heavy on multiple physical servers that may accommodat
 
 ### Potential Benefits
 According to Business World, three main benefits to server virtualization are:
+
 1.	Cost reduction: Save on hardware purchases/upgrades, operational management, energy, and real estate expenses.
 2.	Automation: Reduce number of technicians and/or reduce pressure off the IT department.
 3.	Backup / Recovery: Reliable backups and the restoring of data that may result in cyberattacks or natural disasters.
-    
+
 ### Potential Drawbacks
+
 1.	Upfront Costs: Savings will outweigh the expenditures, but it is specific to each organization. It only considers long term savings when it balances out costs at the end. Another cost factor is including software licensing. Licensing costs have been decreasing due to competition, but it may still be costly.
 2.	Security Risk: Server virtualization carries an additional data security risk. To ensure data integrity and safety, check if the provider is PCI complaint or how they handle security.
 
